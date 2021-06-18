@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://skanthanvijay.github.io/Frontend-Mentor-Stat-preview-card-component/)
 
 ## My process
 
@@ -55,4 +55,3 @@ could have been. In future projects, I will spend more time planning out how exa
 
 ## Author
 Skanthan V.
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/skanthanvijay)

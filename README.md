@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Live Site](https://skanthanvijay.github.io/Frontend-Mentor-Stat-preview-card-component/)
 
 ## My process
